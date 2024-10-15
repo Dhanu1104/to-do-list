@@ -1,0 +1,70 @@
+body{
+    background: radial-gradient( rgb(236, 226, 226),rgb(91, 191, 231),rgb(35, 139, 180),rgb(42, 42, 240));
+    background-repeat: no-repeat;
+    height:634px;
+}
+.to-do-list{
+    text-align: center;
+    margin-top: 100px;
+}
+h1{
+    font-size: 4rem;
+}
+button{
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 10px 15px;
+    color:white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all .4s ease;
+}
+.add{
+   background-color: rgb(240, 37, 240);
+}
+.add:hover{
+    background-color:rgb(48, 137, 48);
+}
+.delete{
+    background-color: rgb(228, 68, 68);
+ }
+ .delete:hover{
+     background-color:rgb(228, 89, 89);
+ }
+ .move{
+    background-color: skyblue;
+ }
+ .move:hover{
+     background-color:rgb(12, 98, 133);
+ }
+ input{
+    font-size: 1rem;
+    padding:10px;
+    border:2px solid rgb(52, 52, 45);
+    border-radius: 4px;
+ }
+ ol{
+    list-style-type: none;
+    padding:1% 20% 10%;
+ }
+ li{
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding:15px;
+    background-color: rgb(241, 235, 235);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border:1px solid rgb(164, 160, 160);
+    display: flex;
+    align-items: center;
+ }
+ .text{
+    flex: 1;
+    text-align: justify;
+
+ }
+ .delete, .move{
+    padding: 8px 12px;
+    margin-left: 10px;
+ }

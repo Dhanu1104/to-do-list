@@ -1,0 +1,68 @@
+/* #Form {
+  text-align: center;
+  width: 25rem;
+  height: 25rem;
+  background:white;
+  padding-top: 10px;
+  margin-top: 60px;
+  box-shadow: 0 8px 32px 0 rgba(31,38,135,.37);
+  color: black;
+
+}
+
+form {
+  display:inline-block;
+  margin-top: 20px;
+ 
+}
+
+
+div {
+  margin-bottom: 10px;
+ 
+}
+
+label {
+  width:140px;
+  margin:0.2cm;
+  display:inline-block;
+  font-weight: 16px;
+  text-align: start;
+}
+
+input {
+  padding: 5px;
+}
+#pass{
+  cursor:help;
+}
+
+button {
+  padding: 5px 10px;
+  margin-top: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border:black;
+  cursor:pointer;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color:cornflowerblue;
+}
+
+#onchange{
+  text-align: center;
+  width: 20rem;
+  height: 10rem;
+  background:white;
+  padding-top: 10px;
+  margin-top: 35px;
+  box-shadow: 0 8px 32px 0 rgba(31,38,135,.37);
+  color: black;
+  display: inline-block;
+  text-align: start;
+  padding-left: 15px;
+}
+ */
+
